@@ -19,6 +19,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - [x] O participante deve poder visualizar seu crachá de inscrição;
 - [x] O participante deve poder realizar check-in no evento;
 
+
 ### Regras de negócio
 
 - [x] O participante só pode se inscrever em um evento uma única vez;
